@@ -1,0 +1,20 @@
+* { box-sizing: border-box; }
+
+html {
+   
+}
+
+body {
+    color: #222;
+    font-size: 20px;
+    line-height: 28px;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
